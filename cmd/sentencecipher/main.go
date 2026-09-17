@@ -8,7 +8,7 @@ import (
 	"os"
 	"strings"
 
-	sentencecipher "github.com/kittizz/sentence-cipher"
+	sentencecipher "github.com/nilcrystal/sentence-cipher"
 )
 
 const version = "1.0.0"

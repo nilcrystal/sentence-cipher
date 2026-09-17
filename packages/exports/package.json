@@ -6,10 +6,10 @@
   "description": "Exports for sentence-cipher.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kittizz/sentence-cipher.git"
+    "url": "git+https://github.com/nilcrystal/sentence-cipher.git"
   },
   "bugs": {
-    "url": "https://github.com/kittizz/sentence-cipher/issues"
+    "url": "https://github.com/nilcrystal/sentence-cipher/issues"
   },
   "exports": {
     ".": {

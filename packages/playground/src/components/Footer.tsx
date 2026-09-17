@@ -12,7 +12,7 @@ export const Footer = () => (
       </a>{" "}
       •{" "}
       <a
-        href="https://github.com/kittizz/sentence-cipher"
+        href="https://github.com/nilcrystal/sentence-cipher"
         target="_blank"
         rel="noopener noreferrer"
         class="text-purple-400 hover:text-purple-300"

@@ -4,7 +4,7 @@ package main
 
 import (
 	"github.com/gopherjs/gopherjs/js"
-	sentencecipher "github.com/kittizz/sentence-cipher"
+	sentencecipher "github.com/nilcrystal/sentence-cipher"
 )
 
 var (

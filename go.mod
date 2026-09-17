@@ -1,4 +1,4 @@
-module github.com/kittizz/sentence-cipher
+module github.com/nilcrystal/sentence-cipher
 
 go 1.19
 

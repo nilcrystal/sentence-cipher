@@ -80,7 +80,7 @@ Data is encoded using three different sentence patterns depending on the remaini
 ### Go
 
 ```bash
-go get github.com/kittizz/sentence-cipher
+go get github.com/nilcrystal/sentence-cipher
 ```
 
 ### Node.js / TypeScript
@@ -100,7 +100,7 @@ package main
 
 import (
     "fmt"
-    sentencecipher "github.com/kittizz/sentence-cipher"
+    sentencecipher "github.com/nilcrystal/sentence-cipher"
 )
 
 func main() {
@@ -181,7 +181,7 @@ You can also use the Go CLI to encode/decode files or text from the terminal.
 
 ```bash
 # Install
-go install github.com/kittizz/sentence-cipher/cmd/sentencecipher@latest
+go install github.com/nilcrystal/sentence-cipher/cmd/sentencecipher@latest
 
 # Usage
 sentencecipher "Hello World"
